@@ -1,3 +1,11 @@
-/Main.class
-/Evenodd.class
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
 
